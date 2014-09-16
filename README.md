@@ -1,8 +1,8 @@
 carousel
 ========
 
-How many hours did it take to complete? => 7 hrs
-Which required and optional stories have you completed?
+How many hours did it take to complete? => 7 hrs <br>
+Which required and optional stories have you completed?<br>
 
 **Static photo tiles on the initial screen**<br>
 Optional: Photo tiles move with scrolling<br>
@@ -44,3 +44,6 @@ Swipe left and right<br>
 **Share a photo**<br>
 Optional: Upon completion of the events, mark them green.<br>
 Optional: When all events are completed, dismiss the banner.<br>
+
+
+<img src="https://raw.githubusercontent.com/kkunal/carousel/master/carousal.gif"/>
