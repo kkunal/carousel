@@ -13,8 +13,6 @@ User sees an error alert when no email is present or no password is present.<br>
 User sees a loading screen upon tapping the Sign In button.<br>
 User sees an error alert when entering the wrong email/password combination.<br>
 User is taken to the tutorial screens upon entering the correct email/password combination.<br>
-Optional: When the keyboard is visible, if the user pulls down on the scrollview, it will dismiss the keyboard.<br>
-Optional: On appear, scale the form up and fade it in.<br>
 Optional: Sign Up<br>
 Optional: Tapping in the form reveals the keyboard and shifts the scrollview and "Create a Dropbox" button up.<br>
 Optional: Tapping the Agree to Terms checkbox selects the checkbox.<br>
@@ -34,16 +32,5 @@ User can tap on the profile image to see the settings view (modal from below).<b
 **Settings**<br>
 User can dismiss the settings screen.<br>
 User can log out<br>
-Optional: Learn more about Carousel<br>
-Optional: Show the "Learn more about Carousel" button in the photo timeline.<br>
-Optional: Tap the X to dismiss the banner<br>
-Optional: Track the 3 events:<br>
-View a photo full screen<br>
-Swipe left and right<br>
-
-**Share a photo**<br>
-Optional: Upon completion of the events, mark them green.<br>
-Optional: When all events are completed, dismiss the banner.<br>
-
 
 <img src="https://raw.githubusercontent.com/kkunal/carousel/master/carousal.gif"/>
